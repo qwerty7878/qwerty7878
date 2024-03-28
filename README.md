@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={annhj980})](https://solved.ac/{handle})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 <!--
 **qwerty7878/qwerty7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={annhj980})](https://solved.ac/{handle})
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 -->
