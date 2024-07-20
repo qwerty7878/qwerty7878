@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pu_mnmn)](https://solved.ac/annhj980)<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annhj980&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={pu_mnmn})](https://solved.ac/{handle})
 
 <!--
 **qwerty7878/qwerty7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
