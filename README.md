@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ### 💻 자주 사용하는 언어 및 도구
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty7878&layout=compact&theme=radical)
 
 ### 🛠 사용한 적이 있는 것들
 
