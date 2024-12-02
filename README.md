@@ -3,21 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello! I'm hyeon jun%20👋&fontSize=60&fontColor=ffffff" />
 </div>
 
-<!-- 소개 -->
-<div align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pu_mnmn)](https://solved.ac/pu_mnmn)
-
-</div>
-
 <!-- 리스트 형식의 소개 -->
 ## 📝 About Me
-안녕하세요! 고객의 니즈를 파악하고 혁신적인 기술로 현실의 문제를 해결하는 열정적인 백엔드 개발자 **안현준**입니다.
+- 🧑‍💻 안녕하세요! 고객의 니즈를 파악하고 혁신적인 기술로 현실의 문제를 해결하는 열정적인 백엔드 개발자 **안현준**입니다.
 - 🔍 고객의 요구를 분석하고 이를 효율적으로 구현하는 데 열정을 가진 개발자입니다.
 - 🌱 지속적인 학습으로 최신 기술 트렌드에 뒤처지지 않으려 노력합니다.
 - ⚡ 문제를 해결하고 새로운 가치를 창출하기 위해 끊임없이 도전합니다.
 
 ---
+
+## 💡알고리즘 
+<div align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pu_mnmn)](https://solved.ac/pu_mnmn)
+
+</div>
 
 <!-- 기술 스택 -->
 ## 🛠 기술 스택
