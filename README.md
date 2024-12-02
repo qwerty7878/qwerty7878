@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello! I'm hyeon jun%20👋&fontSize=60&fontColor=ffffff" />
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20hyeon%20jun%20👋&fontSize=60&fontColor=ffffff)
 </div>
 
 <!-- 리스트 형식의 소개 -->
