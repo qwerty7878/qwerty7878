@@ -2,6 +2,15 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pu_mnmn)](https://solved.ac/pu_mnmn)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/qwerty7878?pet-id=651354950590525399"
+    width="600"
+    height="150"
+  />
+</a>
+
 <!--
 **qwerty7878/qwerty7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
