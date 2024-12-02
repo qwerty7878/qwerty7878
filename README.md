@@ -1,12 +1,18 @@
 <!-- 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there%20👋&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- 소개 -->
 <div align="center">
 
-안녕하세요! 고객의 니즈를 파악하고 혁신적인 기술로 현실의 문제를 해결하는 열정적인 백엔드 개발자 **안현준**입니다.
+<h2>
+  <a href="#" style="text-decoration: none;">
+    <span style="display: inline-block;" class="typewriter">
+      안녕하세요! 고객의 니즈를 파악하고 혁신적인 기술로 현실의 문제를 해결하는 열정적인 백엔드 개발자 안현준입니다.
+    </span>
+  </a>
+</h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pu_mnmn)](https://solved.ac/pu_mnmn)
 
@@ -19,14 +25,14 @@
 
 <table>
   <tr>
-    <!-- 자주 사용하는 언어 및 도구 -->
+    <!-- 자주 사용하는 언어 -->
     <td align="center" width="50%">
-      <h3>💻 자주 사용하는 언어 및 도구</h3>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty7878&layout=compact&theme=radical)
+      <h3>💻 자주 사용하는 언어</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty7878&layout=compact&theme=radical" />
     </td>
-    <!-- 사용한 적이 있는 것들 -->
+    <!-- 사용한 적이 있는 언어 -->
     <td align="center" width="50%">
-      <h3>🛠 사용한 적이 있는 것들</h3>
+      <h3>🛠 사용한 적이 있는 언어</h3>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
