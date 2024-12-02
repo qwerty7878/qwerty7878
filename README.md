@@ -22,12 +22,7 @@
     <!-- 자주 사용하는 언어 및 도구 -->
     <td align="center" width="50%">
       <h3>💻 자주 사용하는 언어 및 도구</h3>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty7878&layout=compact&theme=radical)
     </td>
     <!-- 사용한 적이 있는 것들 -->
     <td align="center" width="50%">
