@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![snake gif](https://github.com/qwerty7878/qwerty7878/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/qwerty7878?pet-id=651354950590525399"
