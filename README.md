@@ -1,8 +1,3 @@
-<!-- 헤더 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20hyeon%20jun%20👋&fontSize=60&fontColor=ffffff" />
-</div>
-
 <!-- 리스트 형식의 소개 -->
 ## 📝 About Me
 - 🧑‍💻 안녕하세요! 고객의 니즈를 파악하고 혁신적인 기술로 현실의 문제를 해결하는 열정적인 백엔드 개발자 **안현준**입니다.
@@ -59,11 +54,4 @@
   />
 </a>
 
-</div>
-
----
-
-<!-- 풋터 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20😊&fontSize=40&fontColor=ffffff" />
 </div>
