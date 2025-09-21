@@ -39,20 +39,3 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 
 </div>
-
----
-
-<!-- 뱀 애니메이션 및 GitAnimals -->
-<div align="center">
-
-![snake gif](https://github.com/qwerty7878/qwerty7878/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/qwerty7878?pet-id=651354950590525399"
-    width="600"
-    height="150"
-  />
-</a>
-
-</div>
